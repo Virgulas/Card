@@ -64,18 +64,16 @@
     opacity: 1;
 }
 
-.icon:link {
+.icon:link, 
+.icon:visited  {
     display: inline-block;
     transition: all 0.5s;
     position: static;
+    color: #fff;
     text-decoration: none;
 }
 
 .icon:hover {
     transform: scale(1.1);
     box-shadow: 0px 0px 25px rgba(10, 10, 10, 0.459);
-}
-
-.icon:visited {
-    color: white;
 }

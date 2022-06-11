@@ -1,8 +1,12 @@
+.main {
+    overflow: auto;
+    height: 55%;
+}
+
 .main-1 {
     color: #fff;
     text-align: center;
 }
-
 
 .name {
     display: block;

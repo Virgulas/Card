@@ -2,7 +2,7 @@
     position: relative;
     top: 0;
     left: 0;
-    overflow:auto;
+    overflow:hidden;
     background-color: #1A1B21;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
